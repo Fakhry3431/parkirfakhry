@@ -3,7 +3,8 @@
 **E-Parkir** adalah sistem manajemen operasional dan pemrosesan transaksi parkir berbasis web yang dirancang untuk mengelola alur kendaraan masuk, perhitungan biaya durasi secara otomatis, cetak tiket/struk dengan QR Code/QRIS, serta pembatasan hak akses berbasis peran (*role-based access*).
 
 🌐 **Live Demo:** [http://parkirsaya.free.nf/](http://parkirsaya.free.nf/)
-
+# Wireframe (perencanaan)
+https://raw.githubusercontent.com/Fakhry3431/parkirfakhry/refs/heads/main/Code_Generated_Image.jpg
 ---
 
 ## 🚀 Fitur Utama
